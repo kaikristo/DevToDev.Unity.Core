@@ -1,5 +1,5 @@
 {
-    "name": "com.devtodev.sdk.analytics",
+    "name": "com.devtodev.sdk.analytics.core",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
